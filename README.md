@@ -22,10 +22,26 @@ Commit your code regularly and meaningfully.
 
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
-1. How would you describe acessibility on the web to someone new to programming?
+1. How would you describe accessibility on the web to someone new to programming?
+
+    Accessibility on the web is for people who have disabilities that make it difficult for them to view and use our websites.  For example when we put images on our website we can add an alt source that can make the computer describe the picture to someone who has poor eye sight or none at all.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+    1. Add alt titles to images.
+    2. Allow text to be enlarged, so don't use hard coded units for size.
+    3. Use descriptive urls.
+
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+    A variable is a word that can stand for a certain piece of data.
+
 4. What is the purpose of using functions in code?
+
+    It creates a shortcut for designers so they don't have to type the same thing over and over again to perform one function on multiple items.
+
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
